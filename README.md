@@ -12,3 +12,5 @@ OR
 3) Go to client directory , run npm i and then run npm run
 4) Visit localhost:3000 to access the application
 
+You may also find deployed project on https://demystapp.netlify.app/
+
