@@ -82,7 +82,7 @@ export default function BalanceSheet({balanceSheet,formData}) {
 <React.Fragment>
 <Paper elevation={3} sx={{ marginRight: "15%", marginLeft: "15%" , paddingTop:"5px" , paddingBottom:"5px", paddingLeft:"20px" }}>
 
-  <p>Your Preassessement score comes out to be ${finaloutput}</p> 
+  <p>Your Preassessement score comes out to be {finaloutput}</p> 
 
 </Paper>
 
